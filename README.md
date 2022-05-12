@@ -11,7 +11,7 @@ O objetivo de um sistema de reconhecimento de entidades nomeadas (NER) é identi
 
 Os tipos comumente usados de entidade nomeada são:
 
-* ORGANIZAÇÃO: Georgia-Pacific Corp., OMS
+* <font color="orange">ORGANIZAÇÃO</font>: Georgia-Pacific Corp., OMS
 
 * PESSOA: Eddy Bonte, Presidente Obama
 
